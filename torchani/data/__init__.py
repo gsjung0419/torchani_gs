@@ -120,7 +120,8 @@ PADDING = {
     'coordinates': 0.0,
     'forces': 0.0,
     'energies': 0.0,
-    'cell':0.0
+    'cell': 0.0,
+    'virial': 0.0
 }
 
 
